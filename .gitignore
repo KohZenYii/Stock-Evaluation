@@ -205,3 +205,21 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python
+*.py[cod]
+
+# Virtual environment
+
+# Environment / keys
+.env
+service-account-key.json
+stock-473111-730cb6dfccdf.json
+
+# IDE
+.idea/
+.vscode/
+
+# OS-generated
+.DS_Store
+Thumbs.db
