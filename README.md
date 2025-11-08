@@ -6,9 +6,6 @@ Automates a daily pipeline that:
 3. Writes the results back to the Sheet  
 4. If any ticker had earnings **yesterday**, emails you a short **NewsAPI** roundup  
 
-All secrets are loaded from environment variables (via `.env` + `python-dotenv`).  
-No keys are committed to Git.
-
 ---
 
 ## 📊 Features
